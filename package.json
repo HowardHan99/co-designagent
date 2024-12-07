@@ -1,0 +1,11 @@
+{
+  "name": "co-design-bot",
+  "version": "1.0.0",
+  "description": "A start of the coDesignBot project that helps emphathetic thinking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
